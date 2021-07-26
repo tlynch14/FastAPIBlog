@@ -20,7 +20,7 @@ query{
 }
 
 query{
-  postById(postId:2){
+  postById(postId:2){w
     id
   	title
     content
